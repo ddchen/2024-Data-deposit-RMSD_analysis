@@ -1,10 +1,10 @@
 # Overview
 This repository is for depositing the data for a research article. It has the following branches:
-- main
-- result_rmsd1_noDIF
-- result_rmsd1_withDIF
-- result_rmsd2_noDIF
-- result_rmsd2_withDIF
+- ``main``
+- ``result_rmsd1_noDIF``
+- ``result_rmsd1_withDIF``
+- ``result_rmsd2_noDIF``
+- ``result_rmsd2_withDIF``
 
 Below are details.
 
@@ -29,6 +29,9 @@ In addition, we have the following .RData files showing the simulated binary ite
 	simulate_WITH.DIF_ngrp=15.RData		         simulated response data - with DIF, for 15 groups
 
 Note that we only cover ``ngrp = 2, 5, 10, and 15`` here (instead of ``ngrp = 2, 3, 4, ..., 15`` specified in the article) due to limited data storage space. 
+
+Also, we have the following file for understanding the .csv files stored in the other branches:
+	README_csv file name interpretation.xlsx  	details about how to use the names of the .csv files to locate the right data
 
 # Files in ``result_rmsd1_noDIF``
 In ``result_rmsd1_noDIF``, you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
