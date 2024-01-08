@@ -31,6 +31,7 @@ In addition, we have the following .RData files showing the simulated binary ite
 Note that we only cover ``ngrp = 2, 5, 10, and 15`` here (instead of ``ngrp = 2, 3, 4, ..., 15`` specified in the article) due to limited data storage space. 
 
 Also, we have the following file for understanding the .csv files stored in the other branches:
+
 	README_csv file name interpretation.xlsx  	details about how to use the names of the .csv files to locate the right data
 
 # Files in ``result_rmsd1_noDIF``
