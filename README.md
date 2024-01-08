@@ -16,17 +16,17 @@ In ``main``, we have the following files about TIMSS math items:
 
 They can also be downloaded at [TIMSS's website](https://timss2019.org/international-database/)
 
-In addition, we have the following .RData files showing the simulated binary item responses:
+In addition, we have the following .RData files that contain the simulated binary item responses:
 
 	simulate_00values for settings.RData	values of simulation settings
-	simulate_NO.DIF_ngrp=2.RData		simulated response data - no DIF, for two groups
-	simulate_NO.DIF_ngrp=5.RData		simulated response data - no DIF, for five groups
-	simulate_NO.DIF_ngrp=10.RData		simulated response data - no DIF, for ten groups
-	simulate_NO.DIF_ngrp=15.RData		simulated response data - no DIF, for 15 groups
-	simulate_WITH.DIF_ngrp=2.RData		simulated response data - with DIF, for two groups
-	simulate_WITH.DIF_ngrp=5.RData		simulated response data - with DIF, for five groups
-	simulate_WITH.DIF_ngrp=10.RData		simulated response data - with DIF, for ten groups
-	simulate_WITH.DIF_ngrp=15.RData		simulated response data - with DIF, for 15 groups
+	simulate_NO.DIF_ngrp=2.RData		simulated response data - DIF-free, for two groups
+	simulate_NO.DIF_ngrp=5.RData		simulated response data - DIF-free, for five groups
+	simulate_NO.DIF_ngrp=10.RData		simulated response data - DIF-free, for ten groups
+	simulate_NO.DIF_ngrp=15.RData		simulated response data - DIF-free, for 15 groups
+	simulate_WITH.DIF_ngrp=2.RData		simulated response data - DIF-contaminated, for two groups
+	simulate_WITH.DIF_ngrp=5.RData		simulated response data - DIF-contaminated, for five groups
+	simulate_WITH.DIF_ngrp=10.RData		simulated response data - DIF-contaminated, for ten groups
+	simulate_WITH.DIF_ngrp=15.RData		simulated response data - DIF-contaminated, for 15 groups
 
 Note that we only cover ``ngrp = 2, 5, 10, and 15`` here (instead of ``ngrp = 2, 3, 4, ..., 15`` specified in the article) due to limited data storage space. 
 
