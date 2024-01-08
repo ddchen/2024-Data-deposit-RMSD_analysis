@@ -31,13 +31,13 @@ In addition, we have the following .RData files showing the simulated binary ite
 Note that we only cover ``ngrp = 2, 5, 10, and 15`` here (instead of ``ngrp = 2, 3, 4, ..., 15`` specified in the article) due to limited data storage space. 
 
 # Files in ``result_rmsd1_noDIF``
-Here you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
+In ``result_rmsd1_noDIF``, you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
 
 # Files in ``result_rmsd1_withDIF``
-Here you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
+In ``result_rmsd1_withDIF``, you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
 
 # Files in ``result_rmsd2_noDIF``
-Here you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
+In ``result_rmsd2_noDIF``, you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
 
 # Files in ``result_rmsd2_withDIF``
-Here you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
+In ``result_rmsd2_withDIF``, you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
