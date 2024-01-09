@@ -8,7 +8,7 @@ This repository is for depositing the data for a research article. It has the fo
 
 Below are details.
 
-# Files in ``Main``
+## Files in ``Main``
 In ``main``, we have the following files about TIMSS math items:
 
 	T19_G8_Item Parameters_Math.xlsx	item parameter file from TIMSS 2019
@@ -34,14 +34,14 @@ Also, we have the following file for understanding the .csv files stored in the 
 
 	README_csv file name interpretation.xlsx  	details about how to use the .csv file names
 
-# Files in ``result_rmsd1_noDIF``
+## Files in ``result_rmsd1_noDIF``
 In ``result_rmsd1_noDIF``, you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
 
-# Files in ``result_rmsd1_withDIF``
+## Files in ``result_rmsd1_withDIF``
 In ``result_rmsd1_withDIF``, you can find .csv files about the calculated error rates of RMSD-1 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
 
-# Files in ``result_rmsd2_noDIF``
+## Files in ``result_rmsd2_noDIF``
 In ``result_rmsd2_noDIF``, you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-free item response data (e.g., ``simulate_NO.DIF_ngrp=15.RData``).
 
-# Files in ``result_rmsd2_withDIF``
+## Files in ``result_rmsd2_withDIF``
 In ``result_rmsd2_withDIF``, you can find .csv files about the calculated error rates of RMSD-2 in each simulated condition, when using DIF-contaminated item response data (e.g., ``simulate_WITH.DIF_ngrp=15.RData``).
